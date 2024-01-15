@@ -1,33 +1,32 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Movies App
+
+The Movies App is a web application that offers users the ability to explore and watch movie trailers. With a sleek and user-friendly interface, users can browse a curated list of movies, watch trailers, and get a glimpse of what each film has to offer. The app provides a seamless experience for movie enthusiasts to discover and preview the latest releases.
+
+## Features
+
+- Explore a diverse collection of movies.
+- Watch high-quality trailers for each movie.
+- User-friendly interface for easy navigation.
+- Engaging previews to help users decide what to watch.
+- Responsive design for an optimal viewing experience.
+
 ## Getting Started
 
-First, run the development server:
+To start exploring and watching movie trailers, simply visit the [Movies App](https://movies-app-ten-xi.vercel.app/login) in your web browser. Follow the on-screen instructions to browse the available movies and enjoy the trailers.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+If you prefer to run the app locally, you can clone the repository and follow the installation steps in the [Installation](#installation) section of this README.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+We welcome contributions from the community! If you would like to contribute to the development of the Burger Builder App, please see the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Deploy on Vercel
 
